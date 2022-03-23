@@ -1,5 +1,5 @@
 ---
 layout: slide
-title: "Welcome to Michael Malewski's slide!"
+title: "Welcome to Michael Malewski's slide! 🎉"
 ---
 Your text
